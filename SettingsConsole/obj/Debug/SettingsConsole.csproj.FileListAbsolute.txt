@@ -1,0 +1,7 @@
+G:\PROGRAMMING\VSprojects\SettingsConsole\SettingsConsole\bin\Debug\SettingsConsole.exe.config
+G:\PROGRAMMING\VSprojects\SettingsConsole\SettingsConsole\bin\Debug\SettingsConsole.exe
+G:\PROGRAMMING\VSprojects\SettingsConsole\SettingsConsole\bin\Debug\SettingsConsole.pdb
+G:\PROGRAMMING\VSprojects\SettingsConsole\SettingsConsole\obj\Debug\SettingsConsole.csprojAssemblyReference.cache
+G:\PROGRAMMING\VSprojects\SettingsConsole\SettingsConsole\obj\Debug\SettingsConsole.csproj.CoreCompileInputs.cache
+G:\PROGRAMMING\VSprojects\SettingsConsole\SettingsConsole\obj\Debug\SettingsConsole.exe
+G:\PROGRAMMING\VSprojects\SettingsConsole\SettingsConsole\obj\Debug\SettingsConsole.pdb
